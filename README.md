@@ -1,5 +1,3 @@
-# Otukpa-Oloche-Emmanuel
-Profile
 # 👋 Hello and welcome, I'm Emmanuel
 
 ### Health Innovations Researcher with FullStack skills | [Researcher in Complex Systems / Agent-Based Modelling Specialist / Computational Social Science – Health Innovation Focus on policy (adoption and scaling), finance/economics, and epidemiology]
