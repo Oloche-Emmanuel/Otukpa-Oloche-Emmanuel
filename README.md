@@ -29,9 +29,9 @@ Blending biostatistics, epidemiology and computing in fast changing world..I mod
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[E-Commerce Platform](https://github.com/yourusername/ecommerce)** | Full-stack online store with payment integration | React, Node.js, Stripe, MongoDB |
+| Project | Description | Domain | Tech Stack |
+|---------|-------------|--------|------------|
+| **[Digital Diagnostic Adoption in Clinics in Kenya ](https://github.com/yourusername/ecommerce)** | Models how small or rural clinics adopt AI-based diagnostic tools over time, factoring in cost, training, infrastructure, and peer influence. | Digital Health Research |React, Node.js, Stripe, MongoDB |
 | **[Task Management App](https://github.com/yourusername/task-manager)** | Collaborative project management tool | TypeScript, Express, Socket.io |
 | **[Data Visualization Dashboard](https://github.com/yourusername/data-viz)** | Interactive dashboard for analytics | D3.js, Python, FastAPI |
 
