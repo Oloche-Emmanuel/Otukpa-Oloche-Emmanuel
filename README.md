@@ -27,18 +27,18 @@ Blending biostatistics, epidemiology and computing in fast changing world..I mod
 ![Python](https://img.shields.io/badge/Python-orange?style=plastic&logo=python&logoColor=#3776AB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 
-## 📌 Featured Projects
+## 📌 Interesting Analyses
 
 | Project | Description | Domain | Tech Stack |
 |---------|-------------|--------|------------|
 | **[Digital Diagnostic Adoption in Clinics in Kenya ](https://github.com/yourusername/ecommerce)** | Models how small or rural clinics adopt AI-based diagnostic tools over time, factoring in cost, training, infrastructure, and peer influence. | Digital Health Research |React, Node.js, Stripe, MongoDB |
-| **[Task Management App](https://github.com/yourusername/task-manager)** | Collaborative project management tool | TypeScript, Express, Socket.io |
-| **[Data Visualization Dashboard](https://github.com/yourusername/data-viz)** | Interactive dashboard for analytics | D3.js, Python, FastAPI |
+| **[ABM of Trust and Adoption in AI-Based Diagnostic Tools](https://github.com/yourusername/task-manager)** | Simulate how patients and clinicians adopt or reject an AI-powered diagnostic assistant (e.g., for triage or early detection), factoring in trust, ease of use, past experience, and feedback loops.| Digital Health Research | TypeScript, Express, Socket.io |
+| **[Co-Design Simulator for Mobile Diagnostic Tool in Low-Resource Clinics](https://github.com/yourusername/data-viz)** | ABM to explore how frontline health workers, tech developers, and clinic managers co-create a novel diagnostic solution | D3.js, Python, FastAPI |
 
-## 📌 Interesting Analyses
+## 📌Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
+| Project | Description | Domain | Tech Stack |
+|---------|-------------|--------|------------|
 | **[E-Commerce Platform](https://github.com/yourusername/ecommerce)** | Full-stack online store with payment integration | React, Node.js, Stripe, MongoDB |
 | **[Task Management App](https://github.com/yourusername/task-manager)** | Collaborative project management tool | TypeScript, Express, Socket.io |
 | **[Data Visualization Dashboard](https://github.com/yourusername/data-viz)** | Interactive dashboard for analytics | D3.js, Python, FastAPI |
