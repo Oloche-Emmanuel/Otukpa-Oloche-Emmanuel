@@ -9,6 +9,7 @@ Blending biostatistics, epidemiology and computing in fast changing world..I bui
 
 ## 🛠️ Tech Stack
 **Conceptualization/Planning:**
+
 ![Static Badge](https://img.shields.io/badge/visual-paradigm-red?style=plastic&logo=visualparadigm&logoColor=%23CC3333&logoSize=auto)
 
 **Development/analysis environments**
