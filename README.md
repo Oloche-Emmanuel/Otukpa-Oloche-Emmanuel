@@ -1,18 +1,17 @@
 # 👋 Hello and welcome, I'm Emmanuel
 
-### Health Innovations Researcher with FullStack skills | [Researcher in Complex Systems / Agent-Based Modelling Specialist / Computational Social Science – Health Innovation Focus on policy (adoption and scaling), finance/economics, and epidemiology]
+### Health Innovations Researcher with FullStack skills | [Researcher in Complex Systems / Agent-Based Modelling Specialist / Computational Social Science – Digital Health Innovation Focus on policy (adoption and scaling), finance/economics, and epidemiology]
 
 <div style="text-align: center">
-Blending biostatistics, epidemiology and computing in fast changing world..I build clean, efficient applications with modern technologies. Employing Domain-Driven Design(DDD), Object-Oriented Programming (OOP), Business Process Modelling Notation (BPMN) and Unified Modelling Language (UML), in addition to standard quantitative and qualitative research methods. Currently seeking opportunities to contribute to innovative projects. 
+Blending biostatistics, epidemiology and computing in fast changing world..I model and research complex digital health innovation phenomena and build clean, efficient applications with modern technologies. Employing Domain-Driven Design(DDD), Object-Oriented Programming (OOP), Business Process Modelling Notation (BPMN) and Unified Modelling Language (UML), in addition to standard quantitative and qualitative research methods. Currently seeking opportunities to contribute to innovative projects. 
 </div>
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (project dependent)
 **Conceptualization/Planning:**
-
 ![Static Badge](https://img.shields.io/badge/visual-paradigm-red?style=plastic&logo=visualparadigm&logoColor=%23CC3333&logoSize=auto)
 
-**Development/analysis environments**
+**Development/analysis environments:**
 ![Static Badge](https://img.shields.io/badge/IntelliJ-IDEA-blue?style=plastic&logo=intellijidea)
 ![Static Badge](https://img.shields.io/badge/Eclipse-Modeller-darkblue?style=plastic&logo=eclipseide&logoColor=%232C2255)
 ![Static Badge](https://img.shields.io/badge/AnyLogic-skyblue?style=plastic&logoColor=%232C2255)
